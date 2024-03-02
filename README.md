@@ -1,2 +1,3 @@
-# burrowsf.github.io
-This will be a repo for me to keep resources that I frequently share with others.
+# Hey!
+Welcome to my page.
+Hopefully I will get this looking better at some point but for now this will be it.
