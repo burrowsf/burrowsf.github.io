@@ -1,3 +1,3 @@
-# Hey!
-Welcome to my page.
-Hopefully I will get this looking better at some point but for now this will be it.
+# Fin's Page
+I'll keep some things here. Check my site, it is more useful.
+burrowsf.github.io
