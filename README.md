@@ -1,3 +1,1 @@
-# Fin's Page
-I'll keep some things here. Check my site, it is more useful.
-burrowsf.github.io
+This is the repo for my website. Idk why you are here tbh just go to the website.
