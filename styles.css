@@ -66,3 +66,14 @@ span{
     margin: 30px 0;
     border-radius: 5px;
 }
+
+.abt h1{
+    font-size: 50px;
+    color: #6d6c6c;
+    margin-bottom: 20px;
+}
+
+.abt p{
+    color: #6d6c6c;
+    line-height: 22px;
+}
