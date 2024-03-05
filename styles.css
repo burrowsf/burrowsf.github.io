@@ -82,7 +82,8 @@ span{
 @media (max-width: 600px) {
     .abt{
         text-align: center;
-        margin-left: auto;
+        margin-left: 1px;
+        margin-right: 1px;
         margin-bottom: 2%;
     }
 }
