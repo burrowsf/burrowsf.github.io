@@ -68,7 +68,8 @@ span{
 }
 
 .abt{
-    text-align: center;
+    text-align: left;
+    margin-left: 8%;
 }
 
 .abt h1{
