@@ -99,13 +99,23 @@ span{
     font-size: 50px;
     color: #6d6c6c;
     margin-bottom: 20px;
+    margin-top: 20px;
 }
 
 .abt h2{
     font-size: 50px;
     color: #6d6c6c;
     margin-bottom: 20px;
+    margin-top: 20px;
 }
+
+.abt h3{
+    font-size: 50px;
+    color: #6d6c6c;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
 
 .abt p{
     color: #6d6c6c;
