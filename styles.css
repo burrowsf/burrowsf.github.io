@@ -67,6 +67,10 @@ span{
     border-radius: 5px;
 }
 
+.abt{
+    text-align: center;
+}
+
 .abt h1{
     font-size: 50px;
     color: #6d6c6c;
