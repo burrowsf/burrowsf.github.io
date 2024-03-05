@@ -8,11 +8,11 @@ body {
     height: 100vh;
     /* or */
     height: 100%;
+    background: #6d6c6c;
 }
 
 .hero{
     position: static;
-    background: #101010;
 } 
 
 nav{
