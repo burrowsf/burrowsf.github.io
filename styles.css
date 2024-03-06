@@ -9,7 +9,9 @@ body {
     height: 100vh;
     /* or */
     height: 100%;
-    background: #101010;
+    background-image: linear-gradient(to bottom right, #F8C8DC, #C3B1E1);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
 }
 
 .hero{
